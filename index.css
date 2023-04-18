@@ -1,0 +1,53 @@
+header{
+  background:#BBBBBB;
+}
+body{
+  background:lightgray;
+}
+.caixa{
+  position: relative;
+  width: 940px;
+  margin: 0 auto;
+}
+
+nav{
+  position: absolute;
+  top: 110px;
+  right: 0;
+}
+nav li{
+  display: inline;
+  margin: 0 0 0 15px;
+}
+
+#sf3{
+  width:60%;
+}
+.sus{
+  background:#BBBBBB;
+}
+footer{
+  text-align: center;
+  background: #000000;
+  padding: 40px 0;
+}
+
+.copyright{
+  color: #FFFFFF;
+  font-size: 13px;
+  margin: 20px 0 0;
+}
+h4{
+  font-size: 20px;
+}
+.sus2{
+  background: #BBBBBB;
+  font-size:20px;
+}
+h6{
+  font-size: 20px;
+}
+.sus3{
+  background: #BBBBBB;
+  font-size:20px;
+}
